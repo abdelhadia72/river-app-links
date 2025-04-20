@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.joma32.river",
+      "sha256_cert_fingerprints": [
+        "80:D9:00:43:34:8E:91:7A:15:58:05:45:BB:A0:4E:0A:8E:7A:C7:0A:7D:77:B9:77:FF:23:B8:EC:17:3B:FC:FF"
+      ]
+    }
+  }
+]
+
